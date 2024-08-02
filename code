@@ -1,0 +1,2 @@
+ab -k -c 100 -n 10000 http://example.com/
+//enter web url and run in xammp command line
